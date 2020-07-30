@@ -6,6 +6,7 @@ Here are some solutions in Python3 for some [CodinGame](https://www.codingame.co
 
 ### Easy
 
+-   Horse Racing Duals (100%)
 -   Power of Thor - Episode 1 (100%)
 
 * * *
@@ -16,4 +17,5 @@ Voici des solutions en Python3 pour des puzzles sur [CodinGame](https://www.codi
 
 ### Facile
 
+-   Horse Racing Duals (100%)
 -   Power of Thor - Episode 1 (100%)
